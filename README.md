@@ -4,10 +4,10 @@ Requires Python 3.6 and Selenium
 It uses the IDs in the ids.ht and logins in the order provided.
 'ids.ht' is not provided. Add your own ids :P
 'ids.ht' should contain the ids, passwords and names in the following format:
-(For the first ID)<id> <password> <name>
-(For the rest of the IDs)#<id> <password> <name>
+ <br/>id password name (For the first ID) 
+ <br/> #id password name (For the rest of the IDs) 
 
-#Features:
+Features:
 #	->Basic Login
 #	->Report on all the ids (Logins in automatically after report if previously logged in)
 #	->Add id
@@ -19,7 +19,7 @@ It uses the IDs in the ids.ht and logins in the order provided.
 #	->Change priority order
 #	->Help menu
 
-#Coming up features:
+Coming up features:
 #	->Login in automatically on waking up
 #	->BlackList IDs
 #	->Change Passwords (noobie work)
