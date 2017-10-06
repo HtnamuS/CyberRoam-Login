@@ -16,9 +16,9 @@ import os,sys,datetime,getpass
 # -> list of all ids
 # -> help menu
 # -> current status
+# ->Change Priorities
 #Your data transfer has been exceeded, Please contact the administrator
 #
-# TODO: Change Priorities which will in turn require me to turn the data from the ids to queues and then I will have to play around with placement in the queue
 # TODO: Blacklist IDs
 # TODO: RUN SCRIPT EVERY TIME THE LAPTOP WAKES UP AND EVERY 1 HOUR
 
