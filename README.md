@@ -4,8 +4,8 @@ Requires Python 3.6 and Selenium<br/>
 It uses the IDs in the ids.ht and logins in the order provided.<br/>
 'ids.ht' is not provided. Add your own ids :P<br/>
 'ids.ht' should contain the ids, passwords and names in the following format:
- <br/>`id password name` (For the first ID) 
- <br/>`#id password name` (For the rest of the IDs) 
+ <br/>`id^password^name` (For the first ID) 
+ <br/>`#id^password^name` (For the rest of the IDs) 
 
 # Features:
 	- Basic Login
